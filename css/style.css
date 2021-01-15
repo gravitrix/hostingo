@@ -36,3 +36,9 @@ p {
 img {
   width: 100%;
 }
+
+.navbar {
+  background-color: #047aed;
+  color: white;
+  height: 70px;
+}
